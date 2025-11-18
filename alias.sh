@@ -1,0 +1,1 @@
+alias clc ='printf "\033cTerminal Cleared"'
