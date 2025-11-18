@@ -1,1 +1,1 @@
-alias clc ='printf "\033cTerminal Cleared"'
+alias clc='clear && echo Terminal Cleared'
